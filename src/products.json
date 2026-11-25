@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Minimalist Cotton T-Shirt",
+    "price": 29.99,
+    "image": "https://via.placeholder.com/300x400/000000/ffffff?text=T-Shirt+Men",
+    "gender": "men"
+  },
+  {
+    "id": 2,
+    "name": "Black Minimalist Shirt",
+    "price": 45.5,
+    "image": "https://via.placeholder.com/300x400/000000/ffffff?text=Shirt+Men",
+    "gender": "men"
+  },
+  {
+    "id": 3,
+    "name": "White Minimalist T-Shirt",
+    "price": 24.99,
+    "image": "https://via.placeholder.com/300x400/000000/ffffff?text=T-Shirt+Women",
+    "gender": "women"
+  },
+  {
+    "id": 4,
+    "name": "Black Women's Top",
+    "price": 38.0,
+    "image": "https://via.placeholder.com/300x400/000000/ffffff?text=Top+Women",
+    "gender": "women"
+  }
+]
